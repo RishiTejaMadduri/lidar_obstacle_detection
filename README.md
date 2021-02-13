@@ -8,8 +8,14 @@
 ## Installation
 ```
 git clone https://github.com/RishiTejaMadduri/lidar_obstacle_detection
+```
+```
 cd SFND_Lidar_Obstacle_Detection/build
+```
+```
 make
+```
+```
 ./environment
 ```
 
